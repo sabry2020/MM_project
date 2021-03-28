@@ -1,0 +1,20 @@
+
+
+@font-face {
+    font-family: 'moderna';
+    src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.eot');
+    src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.woff2') format('woff2'),
+         url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.woff') format('woff'),
+         url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.ttf') format('truetype'),
+         url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/133207/moderna_-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.section{
+    
+
+  font-family: 'moderna';
+    
+}
